@@ -6,7 +6,7 @@ are just `HTML`/`JS`/`CSS` which are the same ingredients of `htmlwidgets`.
 Install `gamer` using `devtools::install_github()`.
 
 ```
-devtools::install_github("gamer")
+devtools::install_github("timelyportfolio/gamer")
 ```
  
 ### EntangledClone
